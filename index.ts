@@ -1,2 +1,4 @@
-console.log("hELLO");
-console.log()
+console.log("HELLO");
+console.log("Hello2");
+console.log("Hello3");
+console.log("Hello from dev");
